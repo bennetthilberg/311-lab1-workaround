@@ -145,7 +145,104 @@
       </elementAttributes>
       <pos x="1040" y="200"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="520" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="520" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="580" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="580" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="640" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="640" y="-20"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="700" y="-60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="700" y="-20"/>
+    </visualElement>
   </visualElements>
-  <wires/>
+  <wires>
+    <wire>
+      <p1 x="640" y="-60"/>
+      <p2 x="640" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="580" y="-60"/>
+      <p2 x="580" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="520" y="-60"/>
+      <p2 x="520" y="-20"/>
+    </wire>
+    <wire>
+      <p1 x="700" y="-60"/>
+      <p2 x="700" y="-20"/>
+    </wire>
+  </wires>
   <measurementOrdering/>
 </circuit>

@@ -85,15 +85,31 @@
       </elementAttributes>
       <pos x="680" y="180"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>A1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="400" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>A1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="680" y="180"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
       <p1 x="400" y="240"/>
       <p2 x="440" y="240"/>
-    </wire>
-    <wire>
-      <p1 x="400" y="180"/>
-      <p2 x="680" y="180"/>
     </wire>
     <wire>
       <p1 x="740" y="180"/>

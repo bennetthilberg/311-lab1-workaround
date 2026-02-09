@@ -105,32 +105,47 @@
       </elementAttributes>
       <pos x="680" y="180"/>
     </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>B1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="400" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>B1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="680" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="740" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>NetName</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1040" y="200"/>
+    </visualElement>
   </visualElements>
-  <wires>
-    <wire>
-      <p1 x="400" y="240"/>
-      <p2 x="440" y="240"/>
-    </wire>
-    <wire>
-      <p1 x="740" y="180"/>
-      <p2 x="880" y="180"/>
-    </wire>
-    <wire>
-      <p1 x="440" y="200"/>
-      <p2 x="680" y="200"/>
-    </wire>
-    <wire>
-      <p1 x="880" y="200"/>
-      <p2 x="1040" y="200"/>
-    </wire>
-    <wire>
-      <p1 x="880" y="180"/>
-      <p2 x="880" y="200"/>
-    </wire>
-    <wire>
-      <p1 x="440" y="200"/>
-      <p2 x="440" y="240"/>
-    </wire>
-  </wires>
+  <wires/>
   <measurementOrdering/>
 </circuit>
